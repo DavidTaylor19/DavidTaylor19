@@ -1,0 +1,5 @@
+- Hi, I'm David Taylor, an IT Systems Engineer
+- I specialize in Endpoint Management for macOS, Chrome OS, Windows 10/11, and iOS/iPadOS.
+- Languages: Python mainly with some Powershell when neccessary. C++ was taught in school but haven't used it since, so like my French, I've basically forgotten it.
+- I hope to learn move about deployment pipelines and public cloud infrastructure.
+- Outside of work, you can find me being a father to two young boys and sharing my love of Legos with both of them.
